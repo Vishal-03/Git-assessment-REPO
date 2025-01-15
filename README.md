@@ -19,7 +19,9 @@ You'll see a prompt to create a pull request for your pushed branch. Click on Co
 Add a title and description for your PR.
 Click Create pull request to submit it for review.
 Additional Information
+</br>
 Ensure that you follow the proper Git workflow when creating branches and making commits.
 Always keep your branches up-to-date by pulling changes from the main branch as needed.
+</br>
 If you encounter any issues during the process, feel free to reach out to the instructor or maintainers.
 Happy coding and good luck with your Git assessment!
