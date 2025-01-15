@@ -9,8 +9,6 @@ This repository is designed to help you complete your Git assessment. It allows 
 - Making Changes Locally
 - Pushing Changes to the Remote Repository
 - Creating a Pull/Merge Request
-- Additional Information
-- Cloning the Repository
 
 To begin, clone the repository to your local system:
 
