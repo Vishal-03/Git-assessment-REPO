@@ -3,7 +3,7 @@
 Git Assessment Repository
 This repository is designed to help you complete your Git assessment. It allows you to perform various Git tasks, including creating branches, fetching the repository to your local system, making changes, and submitting push, pull, or merge requests.
 
-##Table of Contents
+## Table of Contents
 - Cloning the Repository
 - Creating a Branch
 - Making Changes Locally
