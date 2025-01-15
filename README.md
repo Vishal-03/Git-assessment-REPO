@@ -24,4 +24,5 @@ Ensure that you follow the proper Git workflow when creating branches and making
 Always keep your branches up-to-date by pulling changes from the main branch as needed.
 </br>
 If you encounter any issues during the process, feel free to reach out to the instructor or maintainers.
+</br>
 Happy coding and good luck with your Git assessment!
