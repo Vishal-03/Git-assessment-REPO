@@ -1,2 +1,1 @@
-this is task2 of git-assessment
-Made changes in task
+Change made in branch-b
